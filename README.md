@@ -1,10 +1,6 @@
 # PyQt5-MusicPlayer
-The idea of this "App" is play music from a specific path of ur PC
+Play music from a specific path
 Using:
--QTDesigner:
-For the GUI
--PyGame:
-to reproduce the music, actually is the unique library that i know that
-can reproduce music, maybe isnt the unique
--Mutagenmp3:
-for tasks like, process .mp3 archives
+-QTDesigner:GUI
+-PyGame:reproduce the music
+-Mutagenmp3:process .mp3 archives
